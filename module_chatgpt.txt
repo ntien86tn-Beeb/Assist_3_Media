@@ -1,4 +1,1 @@
 gpt-5.2
-gpt-5.1 Thingking
-gpt-5.1 Instant
-gpt-4o
